@@ -47,7 +47,7 @@ This prototype extracts the classification step as a standalone, runnable script
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ticket-classifier.git
+git clone https://github.com/lluichi/ticket-classifier.git
 cd ticket-classifier
 
 # Install dependencies
